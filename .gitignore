@@ -1,0 +1,6 @@
+*.pt
+*.safetensors
+
+image_train_augmented/
+processed_dataset/
+synthetic_dataset_1/
